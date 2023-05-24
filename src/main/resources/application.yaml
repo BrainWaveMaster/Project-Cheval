@@ -6,7 +6,7 @@ mybatis:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/cheval?serverTimezone=UTC&characterEncoding=UTF-8 # TODO MySQL Docker ??? ?? ? Docker Compose ??
-    username: cheval
-    password: qwer1234!@
+    url: jdbc:mysql://localhost:3306/cheval?serverTimezone=UTC&characterEncoding=UTF-8 # TODO MySQL User Account 추가 필요
+    username: admin
+    password: admin
     driver-class-name: com.mysql.cj.jdbc.Driver
