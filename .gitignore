@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### NextJS ###
+cheval-web/node_modules
